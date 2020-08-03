@@ -25,4 +25,4 @@ var lastName="Nivas "
 print(firstName+lastName)
 
 
-//print() is used to print the Result 
+//print() is used to print the Result
